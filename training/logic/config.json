@@ -1,0 +1,132 @@
+{
+ "_nota": "Tabla de equivalencias basada en la clasificación de café verde SCA (muestra 350 g). Supuestos marcados con *.",
+ "clases": {
+  "sano": {
+   "cat": 0,
+   "granos_por_defecto": null,
+   "es": "sano",
+   "qu": "allin",
+   "en": "sound bean"
+  },
+  "negro": {
+   "cat": 1,
+   "granos_por_defecto": 1,
+   "es": "negro",
+   "en": "full black"
+  },
+  "vinagre": {
+   "cat": 1,
+   "granos_por_defecto": 1,
+   "es": "vinagre / agrio",
+   "en": "sour",
+   "_supuesto": "*dataset mezcla vinagre total y parcial; se toma el criterio conservador (1:1)"
+  },
+  "cereza_seca": {
+   "cat": 1,
+   "granos_por_defecto": 1,
+   "es": "cereza seca",
+   "en": "dried cherry"
+  },
+  "hongo": {
+   "cat": 1,
+   "granos_por_defecto": 1,
+   "es": "hongo",
+   "en": "fungus damage"
+  },
+  "broca_severa": {
+   "cat": 1,
+   "granos_por_defecto": 5,
+   "es": "broca severa",
+   "en": "severe insect damage"
+  },
+  "broca_leve": {
+   "cat": 2,
+   "granos_por_defecto": 10,
+   "es": "broca leve",
+   "en": "slight insect damage"
+  },
+  "concha": {
+   "cat": 2,
+   "granos_por_defecto": 5,
+   "es": "concha",
+   "en": "shell"
+  },
+  "inmaduro": {
+   "cat": 2,
+   "granos_por_defecto": 5,
+   "es": "inmaduro",
+   "en": "immature"
+  },
+  "pergamino": {
+   "cat": 2,
+   "granos_por_defecto": 5,
+   "es": "pergamino (mal trillado)",
+   "en": "parchment"
+  },
+  "partido_cortado": {
+   "cat": 2,
+   "granos_por_defecto": 5,
+   "es": "partido / mordido / cortado",
+   "en": "broken / chipped / cut"
+  }
+ },
+ "granos_en_350g": 2060,
+ "_granos_en_350g": "*supuesto: peso medio de grano verde arábica ~0.17 g",
+ "grados": [
+  {
+   "id": "especial",
+   "es": "Especial",
+   "en": "Specialty",
+   "max_defectos": 5,
+   "cat1_permitidos": false
+  },
+  {
+   "id": "premium",
+   "es": "Premium",
+   "en": "Premium",
+   "max_defectos": 8,
+   "cat1_permitidos": true
+  },
+  {
+   "id": "estandar",
+   "es": "Estándar",
+   "en": "Exchange",
+   "max_defectos": 23,
+   "cat1_permitidos": true
+  },
+  {
+   "id": "bajo",
+   "es": "Bajo estándar",
+   "en": "Below standard",
+   "max_defectos": 86,
+   "cat1_permitidos": true
+  },
+  {
+   "id": "fuera",
+   "es": "Fuera de grado",
+   "en": "Off grade",
+   "max_defectos": 1000000000.0,
+   "cat1_permitidos": true
+  }
+ ],
+ "umbral_confianza_grado": 0.7,
+ "umbral_dudosos": 0.08,
+ "umbral_prob_grano": 0.55,
+ "precio": {
+  "_nota": "*Todos los parámetros son supuestos editables por la cooperativa; la IA no fija precios.",
+  "arabica_usd_kg": 7.91,
+  "fuente_arabica": "World Bank Pink Sheet, agosto 2026: Arabica julio 2026 = 7.91 US$/kg",
+  "rendimiento_oro_pergamino": 0.8,
+  "tipo_cambio": 3.45,
+  "participacion_productor": 0.85,
+  "diferencial_usd_kg_oro": {
+   "especial": 0.6,
+   "premium": 0.3,
+   "estandar": 0.0,
+   "bajo": -0.45,
+   "fuera": -1.1
+  }
+ },
+ "sesgo_sano_logit": 1.0,
+ "_sesgo_sano_logit": "Corrección por frecuencia real de granos sanos (~90 %) frente al entrenamiento balanceado; calibrado en muestras sintéticas"
+}

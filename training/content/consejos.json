@@ -1,0 +1,112 @@
+{
+ "negro": {
+  "sms_es": "Se encontro grano negro. Coseche solo cerezas rojas maduras, no recoja del suelo y separe los flotantes en agua.",
+  "audio_es": "Hemos encontrado grano negro en su café. Esto pasa cuando se cosechan cerezas muy maduras o caídas al suelo. Le pedimos cosechar solo el fruto rojo y separar los flotantes en agua antes de despulpar.",
+  "causa_es": "Cerezas sobremaduras, caídas al suelo o estrés por sequía.",
+  "accion_campo": true,
+  "buyer_en": "Black beans from overripe or fallen cherries; harvest and flotation controls recommended.",
+  "sms_qu": "Yana granuta tarirqayku. Pukulla granuta pallay, allpamanta ama oqariytachu, yakupi waqtaqkunata t'aqay.",
+  "audio_qu": "Qawirqayku qawaspan yana granuta qahwaykilpi. Kay pasarin chaynaqa pukusqamanta astawan o allpaman urmashan granuta pallaykipi. Mañakuyki pukulla granuta pallay, chaymanta despulpadoraman churanaykillaña yakupi waqtaqkunata t'aqay.",
+  "revision_hablante": true,
+  "borrador_validar_agronomo": true
+ },
+ "vinagre": {
+  "sms_es": "Se encontro grano vinagre. Despulpe el mismo dia de la cosecha, controle el tiempo de fermentacion y lave bien el cafe.",
+  "audio_es": "Encontramos grano con sabor a vinagre en su café. Esto ocurre cuando el café espera mucho antes de despulparse o fermenta de más. Despulpe el mismo día y revise que el mucílago se desprenda bien antes de lavar.",
+  "causa_es": "Fermentación excesiva o demora entre cosecha y despulpado.",
+  "accion_campo": true,
+  "buyer_en": "Sour beans from over-fermentation or delayed pulping; process hygiene issue.",
+  "sms_qu": "Vinagre granuta tarirqayku. Pallaykipi punchawllan despulpay, fermentacionta qaway, chaymanta allintan maylliy.",
+  "audio_qu": "Tarirqayku vinagre samiyuq granuta qahwaykilpi. Kay pasarin qahwa despulpadoraman chayananpaq unay suyakuqtin, o astawan fermentakuqtin. Pallaykipi punchawllan despulpay, chaymanta mucílago allin kichakushanchus qaway mayllanaykipim.",
+  "revision_hablante": true,
+  "borrador_validar_agronomo": true
+ },
+ "cereza_seca": {
+  "sms_es": "Se encontro cereza seca. Separe los frutos secos con flotacion en agua antes de despulpar y revise su despulpadora.",
+  "audio_es": "Se encontraron cerezas secas en su lote. Esto sucede cuando algunos frutos se secan en la planta o no pasan bien por la despulpadora. Use la flotación en agua para separarlas antes de procesar y revise que la máquina esté bien ajustada.",
+  "causa_es": "Cerezas secas en planta que no pasaron correctamente por la despulpadora.",
+  "accion_campo": true,
+  "buyer_en": "Dried cherries present; flotation separation and pulper inspection required.",
+  "sms_qu": "Chaki granuta tarirqayku. Despulpanaykipim ñawpaqta yakupi chaki granuta t'aqay, chaymanta despulpadoraykita qaway.",
+  "audio_qu": "Tarirqayku chaki granuta loteykipi. Kay pasarin wakin granukuna plantapi chakikapuqtin, o despulpadorapi allin mana pasaqtin. Yakupi waqtachispa chaki granuta t'aqay despulpanaykipim ñawpaqta, chaymanta maquinaykita allin calibrasqachus qaway.",
+  "revision_hablante": true,
+  "borrador_validar_agronomo": true
+ },
+ "hongo": {
+  "sms_es": "Se encontro grano con hongo. Seque en capa delgada, mueva varias veces al dia y guarde en saco limpio sobre tarima.",
+  "audio_es": "Encontramos grano con hongo en su café. Esto pasa cuando el secado es lento o el café se guarda húmedo. Extienda el café en capa delgada, muévalo varias veces al día y guárdelo seco en sacos limpios sobre tarimas, lejos del piso y las paredes.",
+  "causa_es": "Secado lento o almacenamiento en condiciones húmedas.",
+  "accion_campo": true,
+  "buyer_en": "Fungal damage from slow drying or humid storage; affects cup quality.",
+  "sms_qu": "Hongoyuq granuta tarirqayku. Pisi chhukallapi chaqchuy, punchawpi achkha kutita qaray, chaymanta tarimapin limpio sacopi waqaychay.",
+  "audio_qu": "Tarirqayku hongoyuq granuta qahwaykilpi. Kay pasarin qahwa allin mana chakikapuqtin, o ch'uqiwan waqaychasqa kapuqtin. Pisi chhukallapi qahwaykita mastay, punchawpi achkha kutita qaray, chaymanta allin chakisqa tarimapin limpio sacopi waqaychay, pampamanta pareddesmantawan karuman.",
+  "revision_hablante": true,
+  "borrador_validar_agronomo": true
+ },
+ "broca_severa": {
+  "sms_es": "Se encontro dano severo de broca. Haga repase, recoja frutos del suelo y pida al tecnico de la cooperativa control biologico.",
+  "audio_es": "Su café tiene daño severo de broca. Este insecto perfora el grano y baja mucho la calidad y el rendimiento. Recoja todos los frutos del suelo y de la planta después de cosechar, use trampas con alcohol y consulte a su técnico sobre el hongo Beauveria.",
+  "causa_es": "Daño severo del insecto broca del café.",
+  "accion_campo": true,
+  "buyer_en": "Severe coffee berry borer infestation; significant yield and quality loss.",
+  "sms_qu": "Broca manchay kachkan qahwaykilpi. Repaseta ruwaysi, allpamanta granuta oqariy, chaymanta cooperativap técniconman control biológicota mañakuy.",
+  "audio_qu": "Qahwaykillipin manchay broca daño kachkan. Kay insecto granuta perforansi, chaymi calidad rendimientontawan ashkha urman. Pallayta tukuytawan allpamanta plantamantawan lliw granuta oqariy, alcohol trampakunata churay, chaymanta técnicoykiman Beauveria hongomanta tapuy.",
+  "revision_hablante": true,
+  "borrador_validar_agronomo": true
+ },
+ "broca_leve": {
+  "sms_es": "Se encontro dano leve de broca. Haga repase, recoja frutos caidos y use trampas con alcohol para controlar el insecto.",
+  "audio_es": "Encontramos daño leve de broca en su café. La broca es un insecto pequeño que perfora el grano y puede aumentar si no se controla. Recoja los frutos del suelo y los que quedan en la planta, y coloque trampas con alcohol. Consulte a su técnico si necesita más ayuda.",
+  "causa_es": "Daño inicial del insecto broca del café.",
+  "accion_campo": true,
+  "buyer_en": "Low-level coffee berry borer damage; early intervention recommended.",
+  "sms_qu": "Pisi broca daño tarirqayku. Repaseta ruwaysi, urmaq granuta oqariy, chaymanta alcohol trampakunata churay insectota controlanaykipaq.",
+  "audio_qu": "Tarirqayku pisi broca daño qahwaykilpi. Broca huch'uy insecton granuta perforansi, mana controlaspaykiqa ashkhayapunman. Allpamanta plantapi qhipakuq granuta oqariy, alcohol trampakunata churay. Astawan yanapayta munaspayki técnicoykiman tapuy.",
+  "revision_hablante": true,
+  "borrador_validar_agronomo": true
+ },
+ "concha": {
+  "sms_es": "Se encontro grano concha. Este defecto es dificil de evitar en campo; se separa con flotacion y zarandas en el beneficio.",
+  "audio_es": "Encontramos granos tipo concha en su lote. Son granos malformados que se forman durante el desarrollo del fruto y tienen poco control desde la chacra. Se pueden separar usando flotación en agua y zarandas durante el beneficio.",
+  "causa_es": "Grano malformado por desarrollo irregular del fruto.",
+  "accion_campo": false,
+  "buyer_en": "Shell beans present; malformed grains separated by flotation and screening.",
+  "sms_qu": "Concha granuta tarirqayku. Kay defecto chakraykipi evitarqa sasam; beneficiopin yakupi waqtachispa zarandawan t'aqasqa.",
+  "audio_qu": "Tarirqayku concha granuta loteykipi. Kaykunan mana allin wiñasqa granukuna, granun wiñachkaqtinmi chaynan rikhurin, chakraykimanta controllarqa sasam. Beneficiopin yakupi waqtachispa zarandawan t'aqayta atinki.",
+  "revision_hablante": true,
+  "borrador_validar_agronomo": true
+ },
+ "inmaduro": {
+  "sms_es": "Se encontro grano inmaduro. Coseche solo frutos rojos y haga varias pasadas en la planta para no cortar verdes.",
+  "audio_es": "Encontramos granos inmaduros en su café. Esto ocurre cuando se cosechan frutos verdes junto con los maduros. Le pedimos cosechar solo los frutos de color rojo y hacer varias pasadas por la planta en distintos días para respetar la maduración.",
+  "causa_es": "Cosecha de frutos verdes antes de su maduración.",
+  "accion_campo": true,
+  "buyer_en": "Immature beans from unripe cherry harvest; selective picking required.",
+  "sms_qu": "Mana puqusqa granuta tarirqayku. Pukulla granuta pallay, q'umir granuta ama pallaytachu, plantata achkha kutita pasay.",
+  "audio_qu": "Tarirqayku mana puqusqa granuta qahwaykilpi. Kay pasarin q'umir granuta puqusqawan khuska pallaykipi. Mañakuyki pukulla granuta pallay, chaymanta sapa punchaw plantata pasaspa puqusqallata pallay, q'umirta ama kuchuychu.",
+  "revision_hablante": true,
+  "borrador_validar_agronomo": true
+ },
+ "pergamino": {
+  "sms_es": "Se encontro grano con pergamino. Esto es un problema de la trilladora, no de su chacra. Avise a su cooperativa.",
+  "audio_es": "Encontramos granos con pergamino en su lote. Esto no es un problema de su trabajo en la chacra, sino de la trilladora que no retiró bien la cáscara seca. Por favor avise a su cooperativa para que revisen y ajusten la máquina.",
+  "causa_es": "Grano mal trillado por falla o desajuste de la trilladora.",
+  "accion_campo": false,
+  "buyer_en": "Parchment-on beans from huller malfunction; cooperative equipment review needed.",
+  "sms_qu": "Pergaminoyuq granuta tarirqayku. Kay chakraykimanta manan, trilladoran probleman. Cooperativata willaysi.",
+  "audio_qu": "Tarirqayku pergaminoyuq granuta loteykipi. Kay chakraykipi llamkaynikimanta manan, trilladoran chaki qara allin mana kichaqtinmi chaynan pasarin. Ama hina kaspa cooperativata willay maquinata qawanankupaq calibranankupaqwan.",
+  "revision_hablante": true,
+  "borrador_validar_agronomo": true
+ },
+ "partido_cortado": {
+  "sms_es": "Se encontro grano partido o cortado. Calibre su despulpadora y evite el sobresecado para proteger el grano.",
+  "audio_es": "Encontramos granos partidos o cortados en su café. Esto puede pasar cuando la despulpadora no está bien calibrada o cuando el café se seca demasiado. Revise y ajuste su despulpadora, y cuide que el café no pierda demasiada humedad durante el secado.",
+  "causa_es": "Despulpadora mal calibrada, golpes durante el proceso o sobresecado.",
+  "accion_campo": true,
+  "buyer_en": "Broken or cut beans from pulper misalignment or over-drying.",
+  "sms_qu": "Partido o cortado granuta tarirqayku. Despulpadoraykita calibray, chaymanta qahwaykita ama ashkha chakichiytachu granota qhawanaykipaq.",
+  "audio_qu": "Tarirqayku partido o cortado granuta qahwaykilpi. Kay pasarin despulpadorayki allin mana calibrasqa kapuqtin, o qahwa ashkhata chakikupuqtin. Despulpadoraykita qaway calibray, chaymanta chakichikuqtin qahwayki ashkha humedad mana chinkachipunankupaq qaway.",
+  "revision_hablante": true,
+  "borrador_validar_agronomo": true
+ }
+}

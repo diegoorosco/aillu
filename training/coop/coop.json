@@ -1,0 +1,1053 @@
+{
+"socios": [
+{
+"id": "SOC-101",
+"nombre": "Noor Quispe Huaman",
+"sector": "Huayopata",
+"hectareas": 2.0,
+"idioma": "qu",
+"telefono": "+51 965 *** 528",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"estandar",
+"bajo"
+],
+"cumplimiento_hist": 0.65,
+"sintetico": true
+},
+{
+"id": "SOC-102",
+"nombre": "Maria Flores Cusi",
+"sector": "Quellouno",
+"hectareas": 1.0,
+"idioma": "es",
+"telefono": "+51 983 *** 699",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"fuera",
+"bajo"
+],
+"cumplimiento_hist": 0.75,
+"sintetico": true
+},
+{
+"id": "SOC-103",
+"nombre": "Felicitas Mamani Flores",
+"sector": "Santa Teresa",
+"hectareas": 4.0,
+"idioma": "qu",
+"telefono": "+51 983 *** 754",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"premium",
+"premium"
+],
+"cumplimiento_hist": 0.8,
+"sintetico": true
+},
+{
+"id": "SOC-104",
+"nombre": "Lucia Flores Huaman",
+"sector": "Maranura",
+"hectareas": 2.9,
+"idioma": "qu",
+"telefono": "+51 968 *** 470",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"estandar",
+"estandar"
+],
+"cumplimiento_hist": 1.09,
+"sintetico": true
+},
+{
+"id": "SOC-105",
+"nombre": "Teofila Callañaupa Huaman",
+"sector": "Huayopata",
+"hectareas": 2.9,
+"idioma": "qu",
+"telefono": "+51 931 *** 875",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"bajo",
+"bajo"
+],
+"cumplimiento_hist": 0.8,
+"sintetico": true
+},
+{
+"id": "SOC-106",
+"nombre": "Rene Cusi Mamani",
+"sector": "Maranura",
+"hectareas": 4.4,
+"idioma": "qu",
+"telefono": "+51 954 *** 708",
+"consentimiento_datos": true,
+"historial_grados": [
+"premium",
+"estandar",
+"bajo"
+],
+"cumplimiento_hist": 1.15,
+"sintetico": true
+},
+{
+"id": "SOC-107",
+"nombre": "Wilber Huaman Huaman",
+"sector": "Ocobamba",
+"hectareas": 4.3,
+"idioma": "es",
+"telefono": "+51 946 *** 833",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"bajo",
+"premium"
+],
+"cumplimiento_hist": 0.83,
+"sintetico": true
+},
+{
+"id": "SOC-108",
+"nombre": "Alejandro Sullca Quispe",
+"sector": "Santa Teresa",
+"hectareas": 4.3,
+"idioma": "es",
+"telefono": "+51 926 *** 856",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"estandar",
+"estandar"
+],
+"cumplimiento_hist": 0.71,
+"sintetico": true
+},
+{
+"id": "SOC-109",
+"nombre": "Hilario Ccama Huaman",
+"sector": "Ocobamba",
+"hectareas": 1.4,
+"idioma": "qu",
+"telefono": "+51 955 *** 799",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"estandar",
+"premium"
+],
+"cumplimiento_hist": 0.74,
+"sintetico": true
+},
+{
+"id": "SOC-110",
+"nombre": "Felicitas Ccahuana Huaman",
+"sector": "Quellouno",
+"hectareas": 1.5,
+"idioma": "qu",
+"telefono": "+51 946 *** 104",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"estandar",
+"estandar"
+],
+"cumplimiento_hist": 0.94,
+"sintetico": true
+},
+{
+"id": "SOC-111",
+"nombre": "Fortunato Sullca Vargas",
+"sector": "Huayopata",
+"hectareas": 2.9,
+"idioma": "qu",
+"telefono": "+51 997 *** 917",
+"consentimiento_datos": true,
+"historial_grados": [
+"fuera",
+"bajo",
+"estandar"
+],
+"cumplimiento_hist": 0.75,
+"sintetico": true
+},
+{
+"id": "SOC-112",
+"nombre": "Hilario Apaza Apaza",
+"sector": "Santa Teresa",
+"hectareas": 1.2,
+"idioma": "qu",
+"telefono": "+51 924 *** 448",
+"consentimiento_datos": true,
+"historial_grados": [
+"bajo",
+"premium",
+"premium"
+],
+"cumplimiento_hist": 0.76,
+"sintetico": true
+},
+{
+"id": "SOC-113",
+"nombre": "Lucia Quispe Gutierrez",
+"sector": "Santa Teresa",
+"hectareas": 1.4,
+"idioma": "es",
+"telefono": "+51 954 *** 716",
+"consentimiento_datos": true,
+"historial_grados": [
+"premium",
+"estandar",
+"especial"
+],
+"cumplimiento_hist": 1.0,
+"sintetico": true
+},
+{
+"id": "SOC-114",
+"nombre": "Lucia Condori Ccama",
+"sector": "Huayopata",
+"hectareas": 4.5,
+"idioma": "es",
+"telefono": "+51 943 *** 590",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"estandar",
+"premium"
+],
+"cumplimiento_hist": 0.76,
+"sintetico": true
+},
+{
+"id": "SOC-115",
+"nombre": "Teofila Rojas Quispe",
+"sector": "Maranura",
+"hectareas": 1.6,
+"idioma": "es",
+"telefono": "+51 921 *** 812",
+"consentimiento_datos": true,
+"historial_grados": [
+"fuera",
+"estandar",
+"bajo"
+],
+"cumplimiento_hist": 1.05,
+"sintetico": true
+},
+{
+"id": "SOC-116",
+"nombre": "Edgar Sullca Choque",
+"sector": "Ocobamba",
+"hectareas": 2.1,
+"idioma": "qu",
+"telefono": "+51 934 *** 925",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"estandar",
+"estandar"
+],
+"cumplimiento_hist": 0.78,
+"sintetico": true
+},
+{
+"id": "SOC-117",
+"nombre": "Hilario Callañaupa Puma",
+"sector": "Ocobamba",
+"hectareas": 2.7,
+"idioma": "es",
+"telefono": "+51 954 *** 557",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"especial",
+"especial"
+],
+"cumplimiento_hist": 0.86,
+"sintetico": true
+},
+{
+"id": "SOC-118",
+"nombre": "Nilda Sullca Sullca",
+"sector": "Echarate",
+"hectareas": 1.1,
+"idioma": "es",
+"telefono": "+51 988 *** 960",
+"consentimiento_datos": false,
+"historial_grados": [
+"premium",
+"estandar",
+"estandar"
+],
+"cumplimiento_hist": 0.97,
+"sintetico": true
+},
+{
+"id": "SOC-119",
+"nombre": "Ruben Sullca Huaman",
+"sector": "Echarate",
+"hectareas": 3.9,
+"idioma": "es",
+"telefono": "+51 952 *** 188",
+"consentimiento_datos": true,
+"historial_grados": [
+"premium",
+"estandar",
+"bajo"
+],
+"cumplimiento_hist": 0.96,
+"sintetico": true
+},
+{
+"id": "SOC-120",
+"nombre": "Nilda Apaza Champi",
+"sector": "Santa Teresa",
+"hectareas": 2.3,
+"idioma": "qu",
+"telefono": "+51 985 *** 576",
+"consentimiento_datos": true,
+"historial_grados": [
+"fuera",
+"bajo",
+"premium"
+],
+"cumplimiento_hist": 1.12,
+"sintetico": true
+},
+{
+"id": "SOC-121",
+"nombre": "Elena Vargas Vargas",
+"sector": "Ocobamba",
+"hectareas": 4.4,
+"idioma": "es",
+"telefono": "+51 977 *** 867",
+"consentimiento_datos": true,
+"historial_grados": [
+"bajo",
+"estandar",
+"estandar"
+],
+"cumplimiento_hist": 0.89,
+"sintetico": true
+},
+{
+"id": "SOC-122",
+"nombre": "Mario Puma Puma",
+"sector": "Maranura",
+"hectareas": 0.9,
+"idioma": "qu",
+"telefono": "+51 963 *** 954",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"estandar",
+"bajo"
+],
+"cumplimiento_hist": 0.89,
+"sintetico": true
+},
+{
+"id": "SOC-123",
+"nombre": "Nilda Sullca Champi",
+"sector": "Santa Teresa",
+"hectareas": 3.3,
+"idioma": "qu",
+"telefono": "+51 912 *** 993",
+"consentimiento_datos": true,
+"historial_grados": [
+"bajo",
+"estandar",
+"bajo"
+],
+"cumplimiento_hist": 0.93,
+"sintetico": true
+},
+{
+"id": "SOC-124",
+"nombre": "Teofila Vargas Quispe",
+"sector": "Huayopata",
+"hectareas": 3.7,
+"idioma": "qu",
+"telefono": "+51 951 *** 798",
+"consentimiento_datos": true,
+"historial_grados": [
+"premium",
+"premium",
+"estandar"
+],
+"cumplimiento_hist": 0.84,
+"sintetico": true
+},
+{
+"id": "SOC-125",
+"nombre": "Fortunato Ccama Condori",
+"sector": "Huayopata",
+"hectareas": 4.1,
+"idioma": "es",
+"telefono": "+51 918 *** 553",
+"consentimiento_datos": true,
+"historial_grados": [
+"premium",
+"estandar",
+"premium"
+],
+"cumplimiento_hist": 0.99,
+"sintetico": true
+},
+{
+"id": "SOC-126",
+"nombre": "Edgar Vargas Rojas",
+"sector": "Quellouno",
+"hectareas": 1.5,
+"idioma": "es",
+"telefono": "+51 999 *** 635",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"estandar",
+"bajo"
+],
+"cumplimiento_hist": 0.96,
+"sintetico": true
+},
+{
+"id": "SOC-127",
+"nombre": "Marcelina Flores Puma",
+"sector": "Huayopata",
+"hectareas": 3.9,
+"idioma": "qu",
+"telefono": "+51 948 *** 902",
+"consentimiento_datos": true,
+"historial_grados": [
+"premium",
+"premium",
+"estandar"
+],
+"cumplimiento_hist": 0.96,
+"sintetico": true
+},
+{
+"id": "SOC-128",
+"nombre": "Elena Sullca Ccahuana",
+"sector": "Huayopata",
+"hectareas": 1.7,
+"idioma": "qu",
+"telefono": "+51 972 *** 266",
+"consentimiento_datos": true,
+"historial_grados": [
+"premium",
+"estandar",
+"bajo"
+],
+"cumplimiento_hist": 0.92,
+"sintetico": true
+},
+{
+"id": "SOC-129",
+"nombre": "Felicitas Choque Cusi",
+"sector": "Maranura",
+"hectareas": 4.5,
+"idioma": "qu",
+"telefono": "+51 966 *** 820",
+"consentimiento_datos": false,
+"historial_grados": [
+"estandar",
+"estandar",
+"estandar"
+],
+"cumplimiento_hist": 0.98,
+"sintetico": true
+},
+{
+"id": "SOC-130",
+"nombre": "Pedro Rojas Vargas",
+"sector": "Santa Teresa",
+"hectareas": 1.9,
+"idioma": "es",
+"telefono": "+51 923 *** 186",
+"consentimiento_datos": true,
+"historial_grados": [
+"fuera",
+"premium",
+"fuera"
+],
+"cumplimiento_hist": 0.94,
+"sintetico": true
+},
+{
+"id": "SOC-131",
+"nombre": "Juana Choque Yupanqui",
+"sector": "Quellouno",
+"hectareas": 3.6,
+"idioma": "es",
+"telefono": "+51 983 *** 606",
+"consentimiento_datos": true,
+"historial_grados": [
+"bajo",
+"bajo",
+"bajo"
+],
+"cumplimiento_hist": 1.0,
+"sintetico": true
+},
+{
+"id": "SOC-132",
+"nombre": "Maria Yupanqui Mamani",
+"sector": "Huayopata",
+"hectareas": 3.8,
+"idioma": "es",
+"telefono": "+51 943 *** 185",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"bajo",
+"estandar"
+],
+"cumplimiento_hist": 0.84,
+"sintetico": true
+},
+{
+"id": "SOC-133",
+"nombre": "Felicitas Huaman Yupanqui",
+"sector": "Santa Teresa",
+"hectareas": 4.0,
+"idioma": "qu",
+"telefono": "+51 940 *** 212",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"estandar",
+"estandar"
+],
+"cumplimiento_hist": 0.96,
+"sintetico": true
+},
+{
+"id": "SOC-134",
+"nombre": "Marcelina Mamani Choque",
+"sector": "Maranura",
+"hectareas": 1.5,
+"idioma": "qu",
+"telefono": "+51 996 *** 282",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"estandar",
+"bajo"
+],
+"cumplimiento_hist": 0.84,
+"sintetico": true
+},
+{
+"id": "SOC-135",
+"nombre": "Rosa Yupanqui Mamani",
+"sector": "Huayopata",
+"hectareas": 0.9,
+"idioma": "es",
+"telefono": "+51 993 *** 542",
+"consentimiento_datos": true,
+"historial_grados": [
+"bajo",
+"estandar",
+"estandar"
+],
+"cumplimiento_hist": 0.6,
+"sintetico": true
+},
+{
+"id": "SOC-136",
+"nombre": "Fortunato Apaza Rojas",
+"sector": "Ocobamba",
+"hectareas": 1.9,
+"idioma": "es",
+"telefono": "+51 927 *** 514",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"estandar",
+"estandar"
+],
+"cumplimiento_hist": 0.92,
+"sintetico": true
+},
+{
+"id": "SOC-137",
+"nombre": "Juana Ccahuana Quispe",
+"sector": "Quellouno",
+"hectareas": 1.1,
+"idioma": "es",
+"telefono": "+51 946 *** 713",
+"consentimiento_datos": true,
+"historial_grados": [
+"bajo",
+"estandar",
+"premium"
+],
+"cumplimiento_hist": 1.08,
+"sintetico": true
+},
+{
+"id": "SOC-138",
+"nombre": "Julio Mamani Champi",
+"sector": "Maranura",
+"hectareas": 1.5,
+"idioma": "es",
+"telefono": "+51 980 *** 431",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"especial",
+"estandar"
+],
+"cumplimiento_hist": 1.0,
+"sintetico": true
+},
+{
+"id": "SOC-139",
+"nombre": "Julio Puma Sullca",
+"sector": "Huayopata",
+"hectareas": 1.5,
+"idioma": "qu",
+"telefono": "+51 921 *** 247",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"premium",
+"estandar"
+],
+"cumplimiento_hist": 0.83,
+"sintetico": true
+},
+{
+"id": "SOC-140",
+"nombre": "Juana Apaza Quispe",
+"sector": "Santa Teresa",
+"hectareas": 1.9,
+"idioma": "es",
+"telefono": "+51 986 *** 498",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"premium",
+"fuera"
+],
+"cumplimiento_hist": 0.8,
+"sintetico": true
+},
+{
+"id": "SOC-141",
+"nombre": "Nilda Ccama Ccahuana",
+"sector": "Echarate",
+"hectareas": 1.9,
+"idioma": "es",
+"telefono": "+51 974 *** 242",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"premium",
+"bajo"
+],
+"cumplimiento_hist": 0.85,
+"sintetico": true
+},
+{
+"id": "SOC-142",
+"nombre": "Edgar Gutierrez Quispe",
+"sector": "Ocobamba",
+"hectareas": 3.9,
+"idioma": "es",
+"telefono": "+51 920 *** 131",
+"consentimiento_datos": false,
+"historial_grados": [
+"estandar",
+"bajo",
+"bajo"
+],
+"cumplimiento_hist": 0.74,
+"sintetico": true
+},
+{
+"id": "SOC-143",
+"nombre": "Ruben Sullca Condori",
+"sector": "Maranura",
+"hectareas": 2.2,
+"idioma": "qu",
+"telefono": "+51 918 *** 866",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"premium",
+"especial"
+],
+"cumplimiento_hist": 0.79,
+"sintetico": true
+},
+{
+"id": "SOC-144",
+"nombre": "Fortunato Huaman Rojas",
+"sector": "Maranura",
+"hectareas": 1.0,
+"idioma": "qu",
+"telefono": "+51 936 *** 336",
+"consentimiento_datos": true,
+"historial_grados": [
+"bajo",
+"estandar",
+"premium"
+],
+"cumplimiento_hist": 0.86,
+"sintetico": true
+},
+{
+"id": "SOC-145",
+"nombre": "Wilber Ccama Apaza",
+"sector": "Quellouno",
+"hectareas": 1.1,
+"idioma": "qu",
+"telefono": "+51 942 *** 767",
+"consentimiento_datos": true,
+"historial_grados": [
+"fuera",
+"estandar",
+"premium"
+],
+"cumplimiento_hist": 0.83,
+"sintetico": true
+},
+{
+"id": "SOC-146",
+"nombre": "Julio Vargas Gutierrez",
+"sector": "Huayopata",
+"hectareas": 1.3,
+"idioma": "es",
+"telefono": "+51 996 *** 601",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"estandar",
+"fuera"
+],
+"cumplimiento_hist": 0.82,
+"sintetico": true
+},
+{
+"id": "SOC-147",
+"nombre": "Edgar Huallpa Champi",
+"sector": "Echarate",
+"hectareas": 2.5,
+"idioma": "qu",
+"telefono": "+51 968 *** 178",
+"consentimiento_datos": true,
+"historial_grados": [
+"bajo",
+"fuera",
+"estandar"
+],
+"cumplimiento_hist": 0.86,
+"sintetico": true
+},
+{
+"id": "SOC-148",
+"nombre": "Wilber Yupanqui Apaza",
+"sector": "Santa Teresa",
+"hectareas": 1.6,
+"idioma": "es",
+"telefono": "+51 943 *** 468",
+"consentimiento_datos": true,
+"historial_grados": [
+"fuera",
+"estandar",
+"estandar"
+],
+"cumplimiento_hist": 0.93,
+"sintetico": true
+},
+{
+"id": "SOC-149",
+"nombre": "Ruben Rojas Yupanqui",
+"sector": "Huayopata",
+"hectareas": 4.1,
+"idioma": "es",
+"telefono": "+51 997 *** 561",
+"consentimiento_datos": true,
+"historial_grados": [
+"bajo",
+"estandar",
+"bajo"
+],
+"cumplimiento_hist": 0.85,
+"sintetico": true
+},
+{
+"id": "SOC-150",
+"nombre": "Nilda Ccahuana Cusi",
+"sector": "Maranura",
+"hectareas": 2.1,
+"idioma": "es",
+"telefono": "+51 925 *** 300",
+"consentimiento_datos": true,
+"historial_grados": [
+"estandar",
+"bajo",
+"especial"
+],
+"cumplimiento_hist": 0.88,
+"sintetico": true
+}
+],
+"reportes": [
+{
+"socio": "SOC-102",
+"sms": "qanchis quintal pergamino pa fin de noviembre",
+"qq": 7,
+"mes": 11,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-103",
+"sms": "socio 103 23 qq noviembre",
+"qq": 23,
+"mes": 11,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-104",
+"sms": "SOC-104 20 qq pergamino pa octubre",
+"qq": 20,
+"mes": 10,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-106",
+"sms": "32 quintales listo para noviembre",
+"qq": 32,
+"mes": 11,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-107",
+"sms": "socio 107 24 qq octubre",
+"qq": 24,
+"mes": 10,
+"grado_ultima_muestra": "premium"
+},
+{
+"socio": "SOC-108",
+"sms": "37 quintales listo para octubre",
+"qq": 37,
+"mes": 10,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-109",
+"sms": "tengo pusaq qq pergaminon octubre killapi",
+"qq": 8,
+"mes": 10,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-111",
+"sms": "socio 111 18 qq octubre",
+"qq": 18,
+"mes": 10,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-113",
+"sms": "qanchis quintal pergamino pa fin de octubre",
+"qq": 7,
+"mes": 10,
+"grado_ultima_muestra": "premium"
+},
+{
+"socio": "SOC-114",
+"sms": "socio 114 24 qq octubre",
+"qq": 24,
+"mes": 10,
+"grado_ultima_muestra": "premium"
+},
+{
+"socio": "SOC-115",
+"sms": "14 quintales listo para noviembre",
+"qq": 14,
+"mes": 11,
+"grado_ultima_muestra": "bajo"
+},
+{
+"socio": "SOC-116",
+"sms": "socio 116 11 qq octubre",
+"qq": 11,
+"mes": 10,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-117",
+"sms": "SOC-117 17 qq pergamino pa noviembre",
+"qq": 17,
+"mes": 11,
+"grado_ultima_muestra": "premium"
+},
+{
+"socio": "SOC-119",
+"sms": "SOC-119 27 qq pergamino pa noviembre",
+"qq": 27,
+"mes": 11,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-120",
+"sms": "16 quintales listo para octubre",
+"qq": 16,
+"mes": 10,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-121",
+"sms": "SOC-121 29 qq pergamino pa octubre",
+"qq": 29,
+"mes": 10,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-124",
+"sms": "SOC-124 32 qq pergamino pa octubre",
+"qq": 32,
+"mes": 10,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-126",
+"sms": "8 quintales listo para octubre",
+"qq": 8,
+"mes": 10,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-127",
+"sms": "29 quintales listo para noviembre",
+"qq": 29,
+"mes": 11,
+"grado_ultima_muestra": "premium"
+},
+{
+"socio": "SOC-128",
+"sms": "SOC-128 12 qq pergamino pa octubre",
+"qq": 12,
+"mes": 10,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-129",
+"sms": "socio 129 31 qq noviembre",
+"qq": 31,
+"mes": 11,
+"grado_ultima_muestra": "premium"
+},
+{
+"socio": "SOC-130",
+"sms": "SOC-130 14 qq pergamino pa noviembre",
+"qq": 14,
+"mes": 11,
+"grado_ultima_muestra": "bajo"
+},
+{
+"socio": "SOC-131",
+"sms": "socio 131 21 qq octubre",
+"qq": 21,
+"mes": 10,
+"grado_ultima_muestra": "bajo"
+},
+{
+"socio": "SOC-133",
+"sms": "SOC-133 27 qq pergamino pa octubre",
+"qq": 27,
+"mes": 10,
+"grado_ultima_muestra": "premium"
+},
+{
+"socio": "SOC-135",
+"sms": "qanchis quintal pergamino pa fin de noviembre",
+"qq": 7,
+"mes": 11,
+"grado_ultima_muestra": "bajo"
+},
+{
+"socio": "SOC-136",
+"sms": "socio 136 12 qq octubre",
+"qq": 12,
+"mes": 10,
+"grado_ultima_muestra": "bajo"
+},
+{
+"socio": "SOC-137",
+"sms": "tengo pusaq qq pergaminon octubre killapi",
+"qq": 8,
+"mes": 10,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-140",
+"sms": "SOC-140 13 qq pergamino pa octubre",
+"qq": 13,
+"mes": 10,
+"grado_ultima_muestra": "premium"
+},
+{
+"socio": "SOC-141",
+"sms": "SOC-141 14 qq pergamino pa octubre",
+"qq": 14,
+"mes": 10,
+"grado_ultima_muestra": "estandar"
+},
+{
+"socio": "SOC-144",
+"sms": "socio 144 8 qq octubre",
+"qq": 8,
+"mes": 10,
+"grado_ultima_muestra": "premium"
+},
+{
+"socio": "SOC-145",
+"sms": "SOC-145 10 qq pergamino pa noviembre",
+"qq": 10,
+"mes": 11,
+"grado_ultima_muestra": "premium"
+},
+{
+"socio": "SOC-146",
+"sms": "tengo isqun qq pergaminon noviembre killapi",
+"qq": 9,
+"mes": 11,
+"grado_ultima_muestra": "premium"
+},
+{
+"socio": "SOC-147",
+"sms": "socio 147 17 qq noviembre",
+"qq": 17,
+"mes": 11,
+"grado_ultima_muestra": "premium"
+},
+{
+"socio": "SOC-150",
+"sms": "19 quintales listo para noviembre",
+"qq": 19,
+"mes": 11,
+"grado_ultima_muestra": "premium"
+}
+],
+"comprador": {
+"nombre": "Comprador aliado (ejemplo)",
+"idioma": "en",
+"lote_min_qq": 470,
+"grado_min": "estandar",
+"entrega": "noviembre 2026",
+"_supuesto": true,
+"nota": "≈ 1 contenedor de 20 pies: 250 sacos de 69 kg de café oro (470 qq pergamino x 46 kg x 0.80)"
+}
+}
